@@ -313,32 +313,32 @@ hr {
     z-index: 10;
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
-    background-image: url('../imageFolder/2.png');
+    background-image: url('../imageFolder/2Red.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background-image: url('../imageFolder/4.png');
+    background-image: url('../imageFolder/4Orange.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background-image: url('../imageFolder/8.png');
+    background-image: url('../imageFolder/8Yellow.png');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background-image: url('../imageFolder/16.png');
+    background-image: url('../imageFolder/16Green.png');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background-image: url('../imageFolder/32.png');
+    background-image: url('../imageFolder/32Teal.png');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background-image: url('../imageFolder/64.png');
+    background-image: url('../imageFolder/64Purple.png');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background-image: url('../imageFolder/128.png');
+    background-image: url('../imageFolder/128Pink.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 0px; }
